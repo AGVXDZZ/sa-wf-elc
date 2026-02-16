@@ -1,0 +1,84 @@
+﻿Product,SKU-Dashes,SKU,Customer,Request For,CustomerID,PrintDisplayName,Copies,Misc Info
+A101H-US,80-0014-4536-2,80001445362,,G/S/C,WHQ7418,3M Taiwan (Random) Zebra Premium-US,2,L825180:  2 copies
+A101L-US,80-0014-4534-7,80001445347,,G/S/C,WHQ7418,3M Taiwan (Random) Zebra Premium-US,2,L825876:  2 copies
+A122,60-0200-2171-7,60020021717,,Good/Service,,3M ID Bar Code Label BL Zebra,1,
+A122,60-0200-2171-7,60020021717,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,
+A122H,80-0014-2761-8,80001427618,,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,
+A122H,80-0014-2761-8,80001427618,Intel,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,2 LABELS
+A122H,80-0014-2761-8,80001427618,Intel,Good/Service,,SA-Brushlon Sleeve SiGac Intel Zeb Random,1,2 LABELS
+A122L,80-0014-2760-0,80001427600,,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,
+A122L,80-0014-2760-0,80001427600,Intel,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,2 LABELS
+A122L,80-0014-2760-0,80001427600,Intel,Good/Service,,SA-Brushlon Sleeve SiGac Intel Zeb Random,1,2 LABELS
+A153L,60-0200-1518-0,60020015180,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A153L-CK,60-0200-2040-4,60020020404,,Good/Service,,ST-Sleeve Label Zebra,1,
+A160,60-9800-3429-6,60980034296,,G/S/C,BXK0076,AMAT Sleeve (Random) Zebra,1,
+A160ALT,60-0200-1662-6,60020016626,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A160I,60-0200-0864-9,60020008649,Intel,Good/Service,,"4"" Disk Sleeve (Random) Intel Zebra",1,2 LABELS
+A160I,60-0200-0864-9,60020008649,Intel,Good/Service,,SA-Brushlon Sleeve SiGac Intel Zeb Random,1,2 LABELS
+A160-CIP1,60-0200-2162-6,60020021626,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A160-CIP1,60-0200-2162-6,60020021626,GMBH,Good/Service,,SA-Sleeve Random Z110 (Barcode),1,
+A165,60-0700-0525-5,60070005255,,G/S/C,BXK0076,AMAT Sleeve (Random) Zebra,1,
+A165,60-0700-0525-5,60070005255,Canada,G/S/C,BXK0076,"4 "" Disk Sleeve (Random)-EF",1,EF version of label AND Sealed bag label for outside of silver bag over the yellow text
+A165ALT,60-0200-1585-9,60020015859,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A165-CIP1,60-0200-2161-8,60020021618,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A165-CIP1,60-0200-2161-8,60020021618,GMBH,Good/Service,,ST-Sleeve Label Zebra,1,
+A165E,80-0016-0230-1,80001602301,,G/S/C,BXK0076,"4"" Disk Sleeve (Random)",1,Rev 1
+A166,60-0200-1456-3,60020014563,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A188H,60-0200-2057-8,60020020578,,G/S/C,WHQ7418,3M Taiwan (Random) Zebra Premium,2,L825876:  2 copies
+A201-US,80-0014-4537-0,80001445370,,G/S/C,WHQ7418,3M Taiwan (Random) Zebra Premium-US,2,L825867:  2 copies
+A2800,60-0200-1535-4,60020015354,,Good/Service,,ST-Sleeve Label Zebra,1,Enter BL
+A2850,60-0200-2049-5,60020020495,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A63,60-0200-2045-3,60020020453,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+A63,60-0200-2045-3,60020020453,ST,Good/Service,,ST-Sleeve Label Zebra,1,
+A82,60-0200-1524-8,60020015248,,Good/Service,,3M ID Bar Code Label Zebra,1,
+A82,60-0200-1524-8,60020015248,China,Good/Service,,3M ID Barcode Label Green Dot Z110,1,
+A82-ST,60-0200-2163-4,60020021634,,Good/Service,,ST-Sleeve Label Zebra,1,Enter BL
+A98AF,60-0200-1496-9,60020014969,,Good/Service,,"4"" Disk Sleeve (Random)",1,Regular Shipments Only
+B138L,80-0014-2717-0,80001427170,,Good/Service,,"4"" Disk Sleeve (Random)",1,"Micron Only, enter BL"
+B138L,80-0014-2717-0,80001427170,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,
+B138LA,80-0014-2737-8,80001427378,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+C123,60-0200-1457-1,60020014571,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+H135,60-0200-2190-7,60020021907,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+L130,60-0200-2189-9,60020021899,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+L130,60-0200-2189-9,60020021899,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,"Micron Only, enter BL"
+L130 Japan,60-0200-2189-9,60020021899,Micron,Good/Service,,SA-Sleeve Random Micron Japan,1,"Micron Only, enter BL"
+L130A,80-0014-2681-8,80001426818,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+L130A,80-0014-2681-8,80001426818,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,"Micron Only, enter BL"
+S122,60-0200-1269-0,60020012690,,Good/Service,,3M ID Bar Code Label BL Zebra,1,enter BL
+S122(high),60-0200-1269-0,60020012690,Micron,Good/Service,,SA-Sleeve Random Micron H (13-16),1,"Micron Only, enter BL"
+S122 (low),60-0200-1269-0,60020012690,Micron,Good/Service,,SA-Sleeve Random Micron L (9-12),1,"Micron Only, enter BL"
+S122 Japan,60-0200-1269-0,60020012690,Micron,Good/Service,,SA-Sleeve Random Micron Japan Only (9-16),1,"Micron Only, enter BL"
+S122H,80-0014-2710-5,80001427105,,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,
+S122L,80-0014-2709-7,80001427097,,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,
+S123H,80-0014-2789-9,80001427899,,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,
+S123L,80-0014-2788-1,80001427881,,Good/Service,,"4"" Disk Sleeve (+1) FHP",1,
+S188J,60-0200-2187-3,60020021873,,Good/Service,,3M ID Bar Code Label BL Zebra,1,Enter BL
+S188J,60-0200-2187-3,60020021873,,Good/Service,,SA-Sleeve Random Micron Z110,1,"Micron Only, enter BL"
+S60AI,60-0200-0891-2,60020008912,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+S60AI,60-0200-0891-2,60020008912,GMBH,Good/Service,,SA AM 4x2.5 Global FoundriesRandom,1,GMBH Shipments Only
+S60AI,60-0200-0891-2,60020008912,Canada,Good/Service,,"4 "" Disk Sleeve (Random)-EF",1,'EF' version of label AND Sealed bag label for outside of silver bag over the yellow text
+S60 CIP-1,60-0200-2183-2,60020021832,,Good/Service,,"4"" Disk Sleeve (Random)",1,
+S65,60-0200-2168-3,60020021683,,Good/Service,,3M ID Bar Code Label BL Zebra,1,
+S82,60-0200-1319-3,60020013193,,Good/Service,,3M ID Barcode Label-Green Dot BL Z110,1,Enter BL
+S82 US/SG,60-0200-1319-3,60020013193,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,"Micron only, enter BL"
+S82 Japan,60-0200-1319-3,60020013193,Japan Micron,Good/Service,,SA-Sleeve Random Micron Japan,1,"Micron only, enter BL"
+PB32A-1,60-0200-2079-2,60020020792,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB32A-1,60-0200-2079-2,60020020792,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,Micron Only
+PB32A-2,80-0014-4510-7,80001445107,Intel,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,Both Labels
+PB32A-2,80-0014-4510-7,80001445107,Intel,Good/Service,,Brushlon Sigac (+1) No Ser Zebra,1,Both Labels
+PB33A,60-0200-1663-4,60020016634,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB33A-1,60-0200-2131-1,60020021311,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB33A-1,60-0200-2131-1,60020021311,Micron,Good/Service,,SA-Sleeve Random Micron Z110,1,Micron Only
+PB33A-1,60-0200-2131-1,60020021311,France,Good/Service,,ST-Sleeve Label Zebra,1,Make BL = 0
+PB33A-2,80-0014-4511-5,80001445115,Intel,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,Both Labels
+PB33A-2,80-0014-4511-5,80001445115,Intel,Good/Service,,Brushlon Sigac (+1) No Ser Zebra,1,Both Labels
+PB33R,60-0200-2153-5,60020021535,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB33R-3,60-0200-2188-1,60020021881,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB33R-3,60-0200-2188-1,60020021881,Singapore Micron,Good/Service,,SA-Sleeve Random Micron Brush Sing Only,1,Micron Only
+PB33R-3,60-0200-2188-1,60020021881,Japan or Taiwan Micron,Good/Service,,SA-Sleeve Random Micron Brush JP or TW Only        Micron Only,1,Micron Only
+PB33R-4,80-0014-4513-1,80001445131,Intel,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,Both Labels
+PB33R-4,80-0014-4513-1,80001445131,Intel,Good/Service,,Brushlon Sigac (+1) No Ser Zebra,1,Both Labels
+PB33S-1,60-0200-2170-9,60020021709,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB52A,60-0200-1254-2,60020012542,,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,
+PB52A-2,80-0014-4512-3,80001445123,Intel,Good/Service,,"4"" Brushlon (+1) W/O Ser Zebra",1,Both Labels
+PB52A-2,80-0014-4512-3,80001445123,Intel,Good/Service,,Brushlon Sigac (+1) No Ser Zebra,1,Both Labels
